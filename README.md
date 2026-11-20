@@ -94,17 +94,38 @@ Wrote nDMP_549_157_sunlit.tif
 
 If you use FastShadowGPU, please cite:
 
-1. N. Lukač, B. Žalik. GPU-Based Solar Irradiance Estimation over Digital Surface Models
-   Using Structurally Lossless Viewshed Compression. *Remote Sensing* 18(17), 3044, 2026.
-   [doi:10.3390/rs18173044](https://doi.org/10.3390/rs18173044)
-2. N. Lukač, D. Mongus, B. Žalik, G. Štumberger, M. Bizjak. Novel GPU-accelerated
-   high-resolution solar potential estimation in urban areas by using a modified diffuse
-   irradiance model. *Applied Energy* 353, 122129, 2024.
-   [doi:10.1016/j.apenergy.2023.122129](https://doi.org/10.1016/j.apenergy.2023.122129)
-3. N. Lukač, D. Žlaus, S. Seme, B. Žalik, G. Štumberger. Rating of roofs' surfaces regarding
-   their solar potential and suitability for PV systems, based on LiDAR data.
-   *Applied Energy* 102, 2013.
-   [doi:10.1016/j.apenergy.2012.08.042](https://doi.org/10.1016/j.apenergy.2012.08.042)
+```bibtex
+@article{lukac2026viewshed,
+  author  = {Luka{\v{c}}, Niko and {\v{Z}}alik, Borut},
+  title   = {{GPU}-Based Solar Irradiance Estimation over Digital Surface Models Using Structurally Lossless Viewshed Compression},
+  journal = {Remote Sensing},
+  volume  = {18},
+  number  = {17},
+  pages   = {3044},
+  year    = {2026},
+  doi     = {10.3390/rs18173044}
+}
+
+@article{lukac2024diffuse,
+  author  = {Luka{\v{c}}, Niko and Mongus, Domen and {\v{Z}}alik, Borut and {\v{S}}tumberger, Gorazd and Bizjak, Marko},
+  title   = {Novel {GPU}-accelerated high-resolution solar potential estimation in urban areas by using a modified diffuse irradiance model},
+  journal = {Applied Energy},
+  volume  = {353},
+  pages   = {122129},
+  year    = {2024},
+  doi     = {10.1016/j.apenergy.2023.122129}
+}
+
+@article{lukac2013rating,
+  author  = {Luka{\v{c}}, Niko and {\v{Z}}laus, Danijel and Seme, Sebastijan and {\v{Z}}alik, Borut and {\v{S}}tumberger, Gorazd},
+  title   = {Rating of roofs' surfaces regarding their solar potential and suitability for {PV} systems, based on {LiDAR} data},
+  journal = {Applied Energy},
+  volume  = {102},
+  pages   = {803--812},
+  year    = {2013},
+  doi     = {10.1016/j.apenergy.2012.08.042}
+}
+```
 
 ## Acknowledgement
 

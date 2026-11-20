@@ -97,14 +97,11 @@ If you use FastShadowGPU, please cite:
 1. N. Lukač, B. Žalik. GPU-Based Solar Irradiance Estimation over Digital Surface Models
    Using Structurally Lossless Viewshed Compression. *Remote Sensing* 18(17), 3044, 2026.
    [doi:10.3390/rs18173044](https://doi.org/10.3390/rs18173044)
-2. N. Lukač, D. Mongus, G. Štumberger, M. Bizjak. GPU-accelerated Sparse Voxel Octree for
-   Irradiance Simulation using Remote Sensing Data. *IEEE ICRERA 2025*, 2025.
-   [doi:10.1109/ICRERA66237.2025.11284254](https://doi.org/10.1109/ICRERA66237.2025.11284254)
-3. N. Lukač, D. Mongus, B. Žalik, G. Štumberger, M. Bizjak. Novel GPU-accelerated
+2. N. Lukač, D. Mongus, B. Žalik, G. Štumberger, M. Bizjak. Novel GPU-accelerated
    high-resolution solar potential estimation in urban areas by using a modified diffuse
    irradiance model. *Applied Energy* 353, 122129, 2024.
    [doi:10.1016/j.apenergy.2023.122129](https://doi.org/10.1016/j.apenergy.2023.122129)
-4. N. Lukač, D. Žlaus, S. Seme, B. Žalik, G. Štumberger. Rating of roofs' surfaces regarding
+3. N. Lukač, D. Žlaus, S. Seme, B. Žalik, G. Štumberger. Rating of roofs' surfaces regarding
    their solar potential and suitability for PV systems, based on LiDAR data.
    *Applied Energy* 102, 2013.
    [doi:10.1016/j.apenergy.2012.08.042](https://doi.org/10.1016/j.apenergy.2012.08.042)
